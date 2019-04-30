@@ -1,0 +1,1018 @@
+C:\Users\faisa\OneDrive\Documents\University of New Haven\Spring 2017\Script Programming_Python\Programs\Assignments\LetterFrequencyAnalysis>python LetterFrequencyAnalysis.py BrothersKaramazov-Dostoyevsky.txt Copperfield-Dickens.txt DonQuixote-Cervantes.txt Hunchback-Hugo.txt Middlemarch-Eliot.txt Moby-Melville.txt MonteCristo-Dumas.txt Twain.txt Ulysses-Joyce.txt WarPeace-Tolstoy.txt
+
+ ########################## BrothersKaramazov-Dostoyevsky.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  T  : 9.246   |   T  : 9.056
+ ->  H  : 6.571   |   H  : 6.094
+ ->  E  : 11.947   |   E  : 12.702
+ ->  P  : 1.517   |   P  : 1.929
+ ->  R  : 5.324   |   R  : 5.987
+ ->  O  : 8.000   |   O  : 7.507
+ ->  J  : 0.111   |   J  : 0.153
+ ->  C  : 2.154   |   C  : 2.782
+ ->  G  : 1.974   |   G  : 2.015
+ ->  U  : 3.050   |   U  : 2.758
+ ->  N  : 6.745   |   N  : 6.749
+ ->  B  : 1.437   |   B  : 1.492
+ ->  K  : 0.928   |   K  : 0.772
+ ->  F  : 2.150   |   F  : 2.228
+ ->  S  : 6.032   |   S  : 6.327
+ ->  A  : 8.167   |   A  : 8.167
+ ->  M  : 2.719   |   M  : 2.406
+ ->  Z  : 0.069   |   Z  : 0.074
+ ->  V  : 1.254   |   V  : 0.978
+ ->  Y  : 2.586   |   Y  : 1.974
+ ->  D  : 4.363   |   D  : 4.253
+ ->  I  : 7.008   |   I  : 6.966
+ ->  W  : 2.289   |   W  : 2.360
+ ->  L  : 4.124   |   L  : 4.025
+ ->  Q  : 0.087   |   Q  : 0.095
+ ->  X  : 0.149   |   X  : 0.150
+
+The total Frequency Deviation Error for [ BrothersKaramazov-Dostoyevsky.txt ] is:  6.118
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  11.947  -  E  :  12.702
+ ->  T  :  9.246  -  T  :  9.056
+ ->  A  :  8.167  -  A  :  8.167
+ ->  O  :  8.000  -  O  :  7.507
+ ->  I  :  7.008  -  I  :  6.966
+ ->  N  :  6.745  -  N  :  6.749
+ ->  H  :  6.571  -  S  :  6.327
+ ->  S  :  6.032  -  H  :  6.094
+ ->  R  :  5.324  -  R  :  5.987
+ ->  D  :  4.363  -  D  :  4.253
+ ->  L  :  4.124  -  L  :  4.025
+ ->  U  :  3.050  -  C  :  2.782
+ ->  M  :  2.719  -  U  :  2.758
+ ->  Y  :  2.586  -  M  :  2.406
+ ->  W  :  2.289  -  W  :  2.360
+ ->  C  :  2.154  -  F  :  2.228
+ ->  F  :  2.150  -  G  :  2.015
+ ->  G  :  1.974  -  Y  :  1.974
+ ->  P  :  1.517  -  P  :  1.929
+ ->  B  :  1.437  -  B  :  1.492
+ ->  V  :  1.254  -  V  :  0.978
+ ->  K  :  0.928  -  K  :  0.772
+ ->  X  :  0.149  -  J  :  0.153
+ ->  J  :  0.111  -  X  :  0.150
+ ->  Q  :  0.087  -  Q  :  0.095
+ ->  Z  :  0.069  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter T  is at  0  position.
+ -> Letter H  is at  -1  position.
+ -> Letter E  is at  0  position.
+ -> Letter P  is at  0  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  1  position.
+ -> Letter C  is at  4  position.
+ -> Letter G  is at  1  position.
+ -> Letter U  is at  -1  position.
+ -> Letter N  is at  0  position.
+ -> Letter B  is at  0  position.
+ -> Letter K  is at  0  position.
+ -> Letter F  is at  1  position.
+ -> Letter S  is at  1  position.
+ -> Letter A  is at  0  position.
+ -> Letter M  is at  -1  position.
+ -> Letter Z  is at  0  position.
+ -> Letter V  is at  0  position.
+ -> Letter Y  is at  -4  position.
+ -> Letter D  is at  0  position.
+ -> Letter I  is at  0  position.
+ -> Letter W  is at  0  position.
+ -> Letter L  is at  0  position.
+ -> Letter Q  is at  0  position.
+ -> Letter X  is at  -1  position.
+
+ The total letter position error for [ BrothersKaramazov-Dostoyevsky.txt ] is:  16
+
+ ########################## Copperfield-Dickens.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  T  : 8.855   |   T  : 9.056
+ ->  H  : 6.030   |   H  : 6.094
+ ->  E  : 12.080   |   E  : 12.702
+ ->  P  : 1.710   |   P  : 1.929
+ ->  R  : 5.771   |   R  : 5.987
+ ->  O  : 7.749   |   O  : 7.507
+ ->  J  : 0.101   |   J  : 0.153
+ ->  C  : 2.263   |   C  : 2.782
+ ->  G  : 2.107   |   G  : 2.015
+ ->  U  : 2.836   |   U  : 2.758
+ ->  N  : 6.841   |   N  : 6.749
+ ->  B  : 1.527   |   B  : 1.492
+ ->  K  : 0.896   |   K  : 0.772
+ ->  F  : 2.174   |   F  : 2.228
+ ->  D  : 4.686   |   D  : 4.253
+ ->  A  : 8.152   |   A  : 8.167
+ ->  V  : 0.924   |   V  : 0.978
+ ->  I  : 7.245   |   I  : 6.966
+ ->  L  : 3.782   |   L  : 4.025
+ ->  Y  : 2.254   |   Y  : 1.974
+ ->  S  : 6.034   |   S  : 6.327
+ ->  W  : 2.589   |   W  : 2.360
+ ->  M  : 3.140   |   M  : 2.406
+ ->  X  : 0.140   |   X  : 0.150
+ ->  Q  : 0.094   |   Q  : 0.095
+ ->  Z  : 0.020   |   Z  : 0.074
+
+The total Frequency Deviation Error for [ Copperfield-Dickens.txt ] is:  5.235
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  12.080  -  E  :  12.702
+ ->  T  :  8.855  -  T  :  9.056
+ ->  A  :  8.152  -  A  :  8.167
+ ->  O  :  7.749  -  O  :  7.507
+ ->  I  :  7.245  -  I  :  6.966
+ ->  N  :  6.841  -  N  :  6.749
+ ->  S  :  6.034  -  S  :  6.327
+ ->  H  :  6.030  -  H  :  6.094
+ ->  R  :  5.771  -  R  :  5.987
+ ->  D  :  4.686  -  D  :  4.253
+ ->  L  :  3.782  -  L  :  4.025
+ ->  M  :  3.140  -  C  :  2.782
+ ->  U  :  2.836  -  U  :  2.758
+ ->  W  :  2.589  -  M  :  2.406
+ ->  C  :  2.263  -  W  :  2.360
+ ->  Y  :  2.254  -  F  :  2.228
+ ->  F  :  2.174  -  G  :  2.015
+ ->  G  :  2.107  -  Y  :  1.974
+ ->  P  :  1.710  -  P  :  1.929
+ ->  B  :  1.527  -  B  :  1.492
+ ->  V  :  0.924  -  V  :  0.978
+ ->  K  :  0.896  -  K  :  0.772
+ ->  X  :  0.140  -  J  :  0.153
+ ->  J  :  0.101  -  X  :  0.150
+ ->  Q  :  0.094  -  Q  :  0.095
+ ->  Z  :  0.020  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter T  is at  0  position.
+ -> Letter H  is at  0  position.
+ -> Letter E  is at  0  position.
+ -> Letter P  is at  0  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  1  position.
+ -> Letter C  is at  3  position.
+ -> Letter G  is at  1  position.
+ -> Letter U  is at  0  position.
+ -> Letter N  is at  0  position.
+ -> Letter B  is at  0  position.
+ -> Letter K  is at  0  position.
+ -> Letter F  is at  1  position.
+ -> Letter D  is at  0  position.
+ -> Letter A  is at  0  position.
+ -> Letter V  is at  0  position.
+ -> Letter I  is at  0  position.
+ -> Letter L  is at  0  position.
+ -> Letter Y  is at  -2  position.
+ -> Letter S  is at  0  position.
+ -> Letter W  is at  -1  position.
+ -> Letter M  is at  -2  position.
+ -> Letter X  is at  -1  position.
+ -> Letter Q  is at  0  position.
+ -> Letter Z  is at  0  position.
+
+ The total letter position error for [ Copperfield-Dickens.txt ] is:  12
+
+ ########################## DonQuixote-Cervantes.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  T  : 9.405   |   T  : 9.056
+ ->  H  : 6.956   |   H  : 6.094
+ ->  E  : 12.182   |   E  : 12.702
+ ->  P  : 1.460   |   P  : 1.929
+ ->  R  : 5.557   |   R  : 5.987
+ ->  O  : 8.154   |   O  : 7.507
+ ->  J  : 0.092   |   J  : 0.153
+ ->  C  : 2.288   |   C  : 2.782
+ ->  G  : 1.901   |   G  : 2.015
+ ->  U  : 2.783   |   U  : 2.758
+ ->  N  : 6.927   |   N  : 6.749
+ ->  B  : 1.417   |   B  : 1.492
+ ->  K  : 0.695   |   K  : 0.772
+ ->  F  : 2.317   |   F  : 2.228
+ ->  D  : 4.528   |   D  : 4.253
+ ->  Q  : 0.234   |   Q  : 0.095
+ ->  I  : 6.765   |   I  : 6.966
+ ->  X  : 0.253   |   X  : 0.150
+ ->  Y  : 1.845   |   Y  : 1.974
+ ->  M  : 2.547   |   M  : 2.406
+ ->  L  : 3.706   |   L  : 4.025
+ ->  V  : 1.038   |   V  : 0.978
+ ->  A  : 8.268   |   A  : 8.167
+ ->  S  : 6.368   |   S  : 6.327
+ ->  W  : 2.254   |   W  : 2.360
+ ->  Z  : 0.061   |   Z  : 0.074
+
+The total Frequency Deviation Error for [ DonQuixote-Cervantes.txt ] is:  6.018
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  12.182  -  E  :  12.702
+ ->  T  :  9.405  -  T  :  9.056
+ ->  A  :  8.268  -  A  :  8.167
+ ->  O  :  8.154  -  O  :  7.507
+ ->  H  :  6.956  -  I  :  6.966
+ ->  N  :  6.927  -  N  :  6.749
+ ->  I  :  6.765  -  S  :  6.327
+ ->  S  :  6.368  -  H  :  6.094
+ ->  R  :  5.557  -  R  :  5.987
+ ->  D  :  4.528  -  D  :  4.253
+ ->  L  :  3.706  -  L  :  4.025
+ ->  U  :  2.783  -  C  :  2.782
+ ->  M  :  2.547  -  U  :  2.758
+ ->  F  :  2.317  -  M  :  2.406
+ ->  C  :  2.288  -  W  :  2.360
+ ->  W  :  2.254  -  F  :  2.228
+ ->  G  :  1.901  -  G  :  2.015
+ ->  Y  :  1.845  -  Y  :  1.974
+ ->  P  :  1.460  -  P  :  1.929
+ ->  B  :  1.417  -  B  :  1.492
+ ->  V  :  1.038  -  V  :  0.978
+ ->  K  :  0.695  -  K  :  0.772
+ ->  X  :  0.253  -  J  :  0.153
+ ->  Q  :  0.234  -  X  :  0.150
+ ->  J  :  0.092  -  Q  :  0.095
+ ->  Z  :  0.061  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter T  is at  0  position.
+ -> Letter H  is at  -3  position.
+ -> Letter E  is at  0  position.
+ -> Letter P  is at  0  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  2  position.
+ -> Letter C  is at  3  position.
+ -> Letter G  is at  0  position.
+ -> Letter U  is at  -1  position.
+ -> Letter N  is at  0  position.
+ -> Letter B  is at  0  position.
+ -> Letter K  is at  0  position.
+ -> Letter F  is at  -2  position.
+ -> Letter D  is at  0  position.
+ -> Letter Q  is at  -1  position.
+ -> Letter I  is at  2  position.
+ -> Letter X  is at  -1  position.
+ -> Letter Y  is at  0  position.
+ -> Letter M  is at  -1  position.
+ -> Letter L  is at  0  position.
+ -> Letter V  is at  0  position.
+ -> Letter A  is at  0  position.
+ -> Letter S  is at  1  position.
+ -> Letter W  is at  1  position.
+ -> Letter Z  is at  0  position.
+
+ The total letter position error for [ DonQuixote-Cervantes.txt ] is:  18
+
+ ########################## Hunchback-Hugo.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  T  : 9.070   |   T  : 9.056
+ ->  H  : 6.960   |   H  : 6.094
+ ->  E  : 13.006   |   E  : 12.702
+ ->  P  : 1.867   |   P  : 1.929
+ ->  R  : 6.018   |   R  : 5.987
+ ->  O  : 7.415   |   O  : 7.507
+ ->  J  : 0.145   |   J  : 0.153
+ ->  C  : 2.776   |   C  : 2.782
+ ->  G  : 2.122   |   G  : 2.015
+ ->  U  : 2.827   |   U  : 2.758
+ ->  N  : 6.349   |   N  : 6.749
+ ->  B  : 1.465   |   B  : 1.492
+ ->  K  : 0.616   |   K  : 0.772
+ ->  F  : 2.268   |   F  : 2.228
+ ->  D  : 4.310   |   D  : 4.253
+ ->  A  : 7.951   |   A  : 8.167
+ ->  M  : 2.469   |   M  : 2.406
+ ->  I  : 6.906   |   I  : 6.966
+ ->  S  : 6.285   |   S  : 6.327
+ ->  Y  : 1.658   |   Y  : 1.974
+ ->  V  : 0.909   |   V  : 0.978
+ ->  W  : 2.145   |   W  : 2.360
+ ->  L  : 4.115   |   L  : 4.025
+ ->  X  : 0.146   |   X  : 0.150
+ ->  Q  : 0.137   |   Q  : 0.095
+ ->  Z  : 0.066   |   Z  : 0.074
+
+The total Frequency Deviation Error for [ Hunchback-Hugo.txt ] is:  3.364
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  13.006  -  E  :  12.702
+ ->  T  :  9.070  -  T  :  9.056
+ ->  A  :  7.951  -  A  :  8.167
+ ->  O  :  7.415  -  O  :  7.507
+ ->  H  :  6.960  -  I  :  6.966
+ ->  I  :  6.906  -  N  :  6.749
+ ->  N  :  6.349  -  S  :  6.327
+ ->  S  :  6.285  -  H  :  6.094
+ ->  R  :  6.018  -  R  :  5.987
+ ->  D  :  4.310  -  D  :  4.253
+ ->  L  :  4.115  -  L  :  4.025
+ ->  U  :  2.827  -  C  :  2.782
+ ->  C  :  2.776  -  U  :  2.758
+ ->  M  :  2.469  -  M  :  2.406
+ ->  F  :  2.268  -  W  :  2.360
+ ->  W  :  2.145  -  F  :  2.228
+ ->  G  :  2.122  -  G  :  2.015
+ ->  P  :  1.867  -  Y  :  1.974
+ ->  Y  :  1.658  -  P  :  1.929
+ ->  B  :  1.465  -  B  :  1.492
+ ->  V  :  0.909  -  V  :  0.978
+ ->  K  :  0.616  -  K  :  0.772
+ ->  X  :  0.146  -  J  :  0.153
+ ->  J  :  0.145  -  X  :  0.150
+ ->  Q  :  0.137  -  Q  :  0.095
+ ->  Z  :  0.066  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter T  is at  0  position.
+ -> Letter H  is at  -3  position.
+ -> Letter E  is at  0  position.
+ -> Letter P  is at  -1  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  1  position.
+ -> Letter C  is at  1  position.
+ -> Letter G  is at  0  position.
+ -> Letter U  is at  -1  position.
+ -> Letter N  is at  1  position.
+ -> Letter B  is at  0  position.
+ -> Letter K  is at  0  position.
+ -> Letter F  is at  -1  position.
+ -> Letter D  is at  0  position.
+ -> Letter A  is at  0  position.
+ -> Letter M  is at  0  position.
+ -> Letter I  is at  1  position.
+ -> Letter S  is at  1  position.
+ -> Letter Y  is at  1  position.
+ -> Letter V  is at  0  position.
+ -> Letter W  is at  1  position.
+ -> Letter L  is at  0  position.
+ -> Letter X  is at  -1  position.
+ -> Letter Q  is at  0  position.
+ -> Letter Z  is at  0  position.
+
+ The total letter position error for [ Hunchback-Hugo.txt ] is:  14
+
+ ########################## Middlemarch-Eliot.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  T  : 8.850   |   T  : 9.056
+ ->  H  : 6.387   |   H  : 6.094
+ ->  E  : 11.952   |   E  : 12.702
+ ->  P  : 1.589   |   P  : 1.929
+ ->  R  : 5.736   |   R  : 5.987
+ ->  O  : 7.780   |   O  : 7.507
+ ->  J  : 0.126   |   J  : 0.153
+ ->  C  : 2.459   |   C  : 2.782
+ ->  G  : 2.157   |   G  : 2.015
+ ->  U  : 2.914   |   U  : 2.758
+ ->  N  : 6.931   |   N  : 6.749
+ ->  B  : 1.667   |   B  : 1.492
+ ->  K  : 0.789   |   K  : 0.772
+ ->  F  : 2.209   |   F  : 2.228
+ ->  M  : 2.703   |   M  : 2.406
+ ->  I  : 7.141   |   I  : 6.966
+ ->  D  : 4.359   |   D  : 4.253
+ ->  L  : 4.062   |   L  : 4.025
+ ->  A  : 8.156   |   A  : 8.167
+ ->  Y  : 2.055   |   Y  : 1.974
+ ->  S  : 6.322   |   S  : 6.327
+ ->  W  : 2.462   |   W  : 2.360
+ ->  V  : 0.917   |   V  : 0.978
+ ->  X  : 0.157   |   X  : 0.150
+ ->  Q  : 0.103   |   Q  : 0.095
+ ->  Z  : 0.018   |   Z  : 0.074
+
+The total Frequency Deviation Error for [ Middlemarch-Eliot.txt ] is:  4.1
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  11.952  -  E  :  12.702
+ ->  T  :  8.850  -  T  :  9.056
+ ->  A  :  8.156  -  A  :  8.167
+ ->  O  :  7.780  -  O  :  7.507
+ ->  I  :  7.141  -  I  :  6.966
+ ->  N  :  6.931  -  N  :  6.749
+ ->  H  :  6.387  -  S  :  6.327
+ ->  S  :  6.322  -  H  :  6.094
+ ->  R  :  5.736  -  R  :  5.987
+ ->  D  :  4.359  -  D  :  4.253
+ ->  L  :  4.062  -  L  :  4.025
+ ->  U  :  2.914  -  C  :  2.782
+ ->  M  :  2.703  -  U  :  2.758
+ ->  W  :  2.462  -  M  :  2.406
+ ->  C  :  2.459  -  W  :  2.360
+ ->  F  :  2.209  -  F  :  2.228
+ ->  G  :  2.157  -  G  :  2.015
+ ->  Y  :  2.055  -  Y  :  1.974
+ ->  B  :  1.667  -  P  :  1.929
+ ->  P  :  1.589  -  B  :  1.492
+ ->  V  :  0.917  -  V  :  0.978
+ ->  K  :  0.789  -  K  :  0.772
+ ->  X  :  0.157  -  J  :  0.153
+ ->  J  :  0.126  -  X  :  0.150
+ ->  Q  :  0.103  -  Q  :  0.095
+ ->  Z  :  0.018  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter T  is at  0  position.
+ -> Letter H  is at  -1  position.
+ -> Letter E  is at  0  position.
+ -> Letter P  is at  1  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  1  position.
+ -> Letter C  is at  3  position.
+ -> Letter G  is at  0  position.
+ -> Letter U  is at  -1  position.
+ -> Letter N  is at  0  position.
+ -> Letter B  is at  -1  position.
+ -> Letter K  is at  0  position.
+ -> Letter F  is at  0  position.
+ -> Letter M  is at  -1  position.
+ -> Letter I  is at  0  position.
+ -> Letter D  is at  0  position.
+ -> Letter L  is at  0  position.
+ -> Letter A  is at  0  position.
+ -> Letter Y  is at  0  position.
+ -> Letter S  is at  1  position.
+ -> Letter W  is at  -1  position.
+ -> Letter V  is at  0  position.
+ -> Letter X  is at  -1  position.
+ -> Letter Q  is at  0  position.
+ -> Letter Z  is at  0  position.
+
+ The total letter position error for [ Middlemarch-Eliot.txt ] is:  12
+
+ ########################## Moby-Melville.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  T  : 9.262   |   T  : 9.056
+ ->  H  : 6.570   |   H  : 6.094
+ ->  E  : 12.298   |   E  : 12.702
+ ->  P  : 1.843   |   P  : 1.929
+ ->  R  : 5.521   |   R  : 5.987
+ ->  O  : 7.294   |   O  : 7.507
+ ->  J  : 0.121   |   J  : 0.153
+ ->  C  : 2.403   |   C  : 2.782
+ ->  G  : 2.193   |   G  : 2.015
+ ->  U  : 2.810   |   U  : 2.758
+ ->  N  : 6.880   |   N  : 6.749
+ ->  B  : 1.773   |   B  : 1.492
+ ->  K  : 0.847   |   K  : 0.772
+ ->  F  : 2.191   |   F  : 2.228
+ ->  M  : 2.441   |   M  : 2.406
+ ->  Y  : 1.775   |   Y  : 1.974
+ ->  D  : 4.002   |   D  : 4.253
+ ->  I  : 6.872   |   I  : 6.966
+ ->  W  : 2.322   |   W  : 2.360
+ ->  A  : 8.166   |   A  : 8.167
+ ->  L  : 4.468   |   L  : 4.025
+ ->  V  : 0.899   |   V  : 0.978
+ ->  S  : 6.712   |   S  : 6.327
+ ->  Z  : 0.066   |   Z  : 0.074
+ ->  X  : 0.110   |   X  : 0.150
+ ->  Q  : 0.163   |   Q  : 0.095
+
+The total Frequency Deviation Error for [ Moby-Melville.txt ] is:  4.657
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  12.298  -  E  :  12.702
+ ->  T  :  9.262  -  T  :  9.056
+ ->  A  :  8.166  -  A  :  8.167
+ ->  O  :  7.294  -  O  :  7.507
+ ->  N  :  6.880  -  I  :  6.966
+ ->  I  :  6.872  -  N  :  6.749
+ ->  S  :  6.712  -  S  :  6.327
+ ->  H  :  6.570  -  H  :  6.094
+ ->  R  :  5.521  -  R  :  5.987
+ ->  L  :  4.468  -  D  :  4.253
+ ->  D  :  4.002  -  L  :  4.025
+ ->  U  :  2.810  -  C  :  2.782
+ ->  M  :  2.441  -  U  :  2.758
+ ->  C  :  2.403  -  M  :  2.406
+ ->  W  :  2.322  -  W  :  2.360
+ ->  G  :  2.193  -  F  :  2.228
+ ->  F  :  2.191  -  G  :  2.015
+ ->  P  :  1.843  -  Y  :  1.974
+ ->  Y  :  1.775  -  P  :  1.929
+ ->  B  :  1.773  -  B  :  1.492
+ ->  V  :  0.899  -  V  :  0.978
+ ->  K  :  0.847  -  K  :  0.772
+ ->  Q  :  0.163  -  J  :  0.153
+ ->  J  :  0.121  -  X  :  0.150
+ ->  X  :  0.110  -  Q  :  0.095
+ ->  Z  :  0.066  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter T  is at  0  position.
+ -> Letter H  is at  0  position.
+ -> Letter E  is at  0  position.
+ -> Letter P  is at  -1  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  1  position.
+ -> Letter C  is at  2  position.
+ -> Letter G  is at  -1  position.
+ -> Letter U  is at  -1  position.
+ -> Letter N  is at  -1  position.
+ -> Letter B  is at  0  position.
+ -> Letter K  is at  0  position.
+ -> Letter F  is at  1  position.
+ -> Letter M  is at  -1  position.
+ -> Letter Y  is at  1  position.
+ -> Letter D  is at  1  position.
+ -> Letter I  is at  1  position.
+ -> Letter W  is at  0  position.
+ -> Letter A  is at  0  position.
+ -> Letter L  is at  -1  position.
+ -> Letter V  is at  0  position.
+ -> Letter S  is at  0  position.
+ -> Letter Z  is at  0  position.
+ -> Letter X  is at  1  position.
+ -> Letter Q  is at  -2  position.
+
+ The total letter position error for [ Moby-Melville.txt ] is:  16
+
+ ########################## MonteCristo-Dumas.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  P  : 1.718   |   P  : 1.929
+ ->  R  : 5.965   |   R  : 5.987
+ ->  O  : 7.717   |   O  : 7.507
+ ->  J  : 0.100   |   J  : 0.153
+ ->  E  : 12.729   |   E  : 12.702
+ ->  C  : 2.581   |   C  : 2.782
+ ->  T  : 8.869   |   T  : 9.056
+ ->  G  : 1.749   |   G  : 2.015
+ ->  U  : 2.963   |   U  : 2.758
+ ->  N  : 6.760   |   N  : 6.749
+ ->  B  : 1.374   |   B  : 1.492
+ ->  S  : 6.220   |   S  : 6.327
+ ->  H  : 6.209   |   H  : 6.094
+ ->  F  : 2.230   |   F  : 2.228
+ ->  M  : 2.809   |   M  : 2.406
+ ->  I  : 6.992   |   I  : 6.966
+ ->  Y  : 2.095   |   Y  : 1.974
+ ->  A  : 8.134   |   A  : 8.167
+ ->  L  : 3.967   |   L  : 4.025
+ ->  X  : 0.190   |   X  : 0.150
+ ->  D  : 4.623   |   D  : 4.253
+ ->  K  : 0.621   |   K  : 0.772
+ ->  W  : 2.156   |   W  : 2.360
+ ->  V  : 1.056   |   V  : 0.978
+ ->  Z  : 0.074   |   Z  : 0.074
+ ->  Q  : 0.099   |   Q  : 0.095
+
+The total Frequency Deviation Error for [ MonteCristo-Dumas.txt ] is:  3.223
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  12.729  -  E  :  12.702
+ ->  T  :  8.869  -  T  :  9.056
+ ->  A  :  8.134  -  A  :  8.167
+ ->  O  :  7.717  -  O  :  7.507
+ ->  I  :  6.992  -  I  :  6.966
+ ->  N  :  6.760  -  N  :  6.749
+ ->  S  :  6.220  -  S  :  6.327
+ ->  H  :  6.209  -  H  :  6.094
+ ->  R  :  5.965  -  R  :  5.987
+ ->  D  :  4.623  -  D  :  4.253
+ ->  L  :  3.967  -  L  :  4.025
+ ->  U  :  2.963  -  C  :  2.782
+ ->  M  :  2.809  -  U  :  2.758
+ ->  C  :  2.581  -  M  :  2.406
+ ->  F  :  2.230  -  W  :  2.360
+ ->  W  :  2.156  -  F  :  2.228
+ ->  Y  :  2.095  -  G  :  2.015
+ ->  G  :  1.749  -  Y  :  1.974
+ ->  P  :  1.718  -  P  :  1.929
+ ->  B  :  1.374  -  B  :  1.492
+ ->  V  :  1.056  -  V  :  0.978
+ ->  K  :  0.621  -  K  :  0.772
+ ->  X  :  0.190  -  J  :  0.153
+ ->  J  :  0.100  -  X  :  0.150
+ ->  Q  :  0.099  -  Q  :  0.095
+ ->  Z  :  0.074  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter P  is at  0  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  1  position.
+ -> Letter E  is at  0  position.
+ -> Letter C  is at  2  position.
+ -> Letter T  is at  0  position.
+ -> Letter G  is at  1  position.
+ -> Letter U  is at  -1  position.
+ -> Letter N  is at  0  position.
+ -> Letter B  is at  0  position.
+ -> Letter S  is at  0  position.
+ -> Letter H  is at  0  position.
+ -> Letter F  is at  -1  position.
+ -> Letter M  is at  -1  position.
+ -> Letter I  is at  0  position.
+ -> Letter Y  is at  -1  position.
+ -> Letter A  is at  0  position.
+ -> Letter L  is at  0  position.
+ -> Letter X  is at  -1  position.
+ -> Letter D  is at  0  position.
+ -> Letter K  is at  0  position.
+ -> Letter W  is at  1  position.
+ -> Letter V  is at  0  position.
+ -> Letter Z  is at  0  position.
+ -> Letter Q  is at  0  position.
+
+ The total letter position error for [ MonteCristo-Dumas.txt ] is:  10
+
+ ########################## Twain.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  T  : 9.455   |   T  : 9.056
+ ->  H  : 6.069   |   H  : 6.094
+ ->  E  : 12.199   |   E  : 12.702
+ ->  P  : 1.707   |   P  : 1.929
+ ->  R  : 5.637   |   R  : 5.987
+ ->  O  : 7.561   |   O  : 7.507
+ ->  J  : 0.153   |   J  : 0.153
+ ->  C  : 2.396   |   C  : 2.782
+ ->  G  : 2.068   |   G  : 2.015
+ ->  U  : 2.884   |   U  : 2.758
+ ->  N  : 7.172   |   N  : 6.749
+ ->  B  : 1.528   |   B  : 1.492
+ ->  K  : 0.805   |   K  : 0.772
+ ->  F  : 2.196   |   F  : 2.228
+ ->  I  : 6.919   |   I  : 6.966
+ ->  W  : 2.437   |   W  : 2.360
+ ->  S  : 6.241   |   S  : 6.327
+ ->  M  : 2.456   |   M  : 2.406
+ ->  A  : 8.326   |   A  : 8.167
+ ->  Y  : 2.015   |   Y  : 1.974
+ ->  L  : 4.035   |   L  : 4.025
+ ->  D  : 4.536   |   D  : 4.253
+ ->  V  : 0.910   |   V  : 0.978
+ ->  X  : 0.149   |   X  : 0.150
+ ->  Z  : 0.061   |   Z  : 0.074
+ ->  Q  : 0.085   |   Q  : 0.095
+
+The total Frequency Deviation Error for [ Twain.txt ] is:  3.487
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  12.199  -  E  :  12.702
+ ->  T  :  9.455  -  T  :  9.056
+ ->  A  :  8.326  -  A  :  8.167
+ ->  O  :  7.561  -  O  :  7.507
+ ->  N  :  7.172  -  I  :  6.966
+ ->  I  :  6.919  -  N  :  6.749
+ ->  S  :  6.241  -  S  :  6.327
+ ->  H  :  6.069  -  H  :  6.094
+ ->  R  :  5.637  -  R  :  5.987
+ ->  D  :  4.536  -  D  :  4.253
+ ->  L  :  4.035  -  L  :  4.025
+ ->  U  :  2.884  -  C  :  2.782
+ ->  M  :  2.456  -  U  :  2.758
+ ->  W  :  2.437  -  M  :  2.406
+ ->  C  :  2.396  -  W  :  2.360
+ ->  F  :  2.196  -  F  :  2.228
+ ->  G  :  2.068  -  G  :  2.015
+ ->  Y  :  2.015  -  Y  :  1.974
+ ->  P  :  1.707  -  P  :  1.929
+ ->  B  :  1.528  -  B  :  1.492
+ ->  V  :  0.910  -  V  :  0.978
+ ->  K  :  0.805  -  K  :  0.772
+ ->  J  :  0.153  -  J  :  0.153
+ ->  X  :  0.149  -  X  :  0.150
+ ->  Q  :  0.085  -  Q  :  0.095
+ ->  Z  :  0.061  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter T  is at  0  position.
+ -> Letter H  is at  0  position.
+ -> Letter E  is at  0  position.
+ -> Letter P  is at  0  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  0  position.
+ -> Letter C  is at  3  position.
+ -> Letter G  is at  0  position.
+ -> Letter U  is at  -1  position.
+ -> Letter N  is at  -1  position.
+ -> Letter B  is at  0  position.
+ -> Letter K  is at  0  position.
+ -> Letter F  is at  0  position.
+ -> Letter I  is at  1  position.
+ -> Letter W  is at  -1  position.
+ -> Letter S  is at  0  position.
+ -> Letter M  is at  -1  position.
+ -> Letter A  is at  0  position.
+ -> Letter Y  is at  0  position.
+ -> Letter L  is at  0  position.
+ -> Letter D  is at  0  position.
+ -> Letter V  is at  0  position.
+ -> Letter X  is at  0  position.
+ -> Letter Z  is at  0  position.
+ -> Letter Q  is at  0  position.
+
+ The total letter position error for [ Twain.txt ] is:  8
+
+ ########################## Ulysses-Joyce.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  T  : 8.494   |   T  : 9.056
+ ->  H  : 6.103   |   H  : 6.094
+ ->  E  : 11.962   |   E  : 12.702
+ ->  P  : 1.910   |   P  : 1.929
+ ->  R  : 5.931   |   R  : 5.987
+ ->  O  : 7.743   |   O  : 7.507
+ ->  J  : 0.201   |   J  : 0.153
+ ->  C  : 2.547   |   C  : 2.782
+ ->  G  : 2.356   |   G  : 2.015
+ ->  U  : 2.819   |   U  : 2.758
+ ->  N  : 6.777   |   N  : 6.749
+ ->  B  : 1.790   |   B  : 1.492
+ ->  K  : 1.019   |   K  : 0.772
+ ->  F  : 2.256   |   F  : 2.228
+ ->  L  : 4.639   |   L  : 4.025
+ ->  Y  : 2.053   |   Y  : 1.974
+ ->  S  : 6.486   |   S  : 6.327
+ ->  A  : 7.862   |   A  : 8.167
+ ->  M  : 2.664   |   M  : 2.406
+ ->  I  : 6.889   |   I  : 6.966
+ ->  W  : 2.208   |   W  : 2.360
+ ->  D  : 4.143   |   D  : 4.253
+ ->  V  : 0.824   |   V  : 0.978
+ ->  Z  : 0.090   |   Z  : 0.074
+ ->  Q  : 0.112   |   Q  : 0.095
+ ->  X  : 0.122   |   X  : 0.150
+
+The total Frequency Deviation Error for [ Ulysses-Joyce.txt ] is:  4.877
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  11.962  -  E  :  12.702
+ ->  T  :  8.494  -  T  :  9.056
+ ->  A  :  7.862  -  A  :  8.167
+ ->  O  :  7.743  -  O  :  7.507
+ ->  I  :  6.889  -  I  :  6.966
+ ->  N  :  6.777  -  N  :  6.749
+ ->  S  :  6.486  -  S  :  6.327
+ ->  H  :  6.103  -  H  :  6.094
+ ->  R  :  5.931  -  R  :  5.987
+ ->  L  :  4.639  -  D  :  4.253
+ ->  D  :  4.143  -  L  :  4.025
+ ->  U  :  2.819  -  C  :  2.782
+ ->  M  :  2.664  -  U  :  2.758
+ ->  C  :  2.547  -  M  :  2.406
+ ->  G  :  2.356  -  W  :  2.360
+ ->  F  :  2.256  -  F  :  2.228
+ ->  W  :  2.208  -  G  :  2.015
+ ->  Y  :  2.053  -  Y  :  1.974
+ ->  P  :  1.910  -  P  :  1.929
+ ->  B  :  1.790  -  B  :  1.492
+ ->  K  :  1.019  -  V  :  0.978
+ ->  V  :  0.824  -  K  :  0.772
+ ->  J  :  0.201  -  J  :  0.153
+ ->  X  :  0.122  -  X  :  0.150
+ ->  Q  :  0.112  -  Q  :  0.095
+ ->  Z  :  0.090  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter T  is at  0  position.
+ -> Letter H  is at  0  position.
+ -> Letter E  is at  0  position.
+ -> Letter P  is at  0  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  0  position.
+ -> Letter C  is at  2  position.
+ -> Letter G  is at  -2  position.
+ -> Letter U  is at  -1  position.
+ -> Letter N  is at  0  position.
+ -> Letter B  is at  0  position.
+ -> Letter K  is at  -1  position.
+ -> Letter F  is at  0  position.
+ -> Letter L  is at  -1  position.
+ -> Letter Y  is at  0  position.
+ -> Letter S  is at  0  position.
+ -> Letter A  is at  0  position.
+ -> Letter M  is at  -1  position.
+ -> Letter I  is at  0  position.
+ -> Letter W  is at  2  position.
+ -> Letter D  is at  1  position.
+ -> Letter V  is at  1  position.
+ -> Letter Z  is at  0  position.
+ -> Letter Q  is at  0  position.
+ -> Letter X  is at  0  position.
+
+ The total letter position error for [ Ulysses-Joyce.txt ] is:  12
+
+ ########################## WarPeace-Tolstoy.txt ############################
+
+__________Frequency Comparison___________
+
+ Book Table       -        Wiki Table
+
+ ->  T  : 8.979   |   T  : 9.056
+ ->  H  : 6.639   |   H  : 6.094
+ ->  E  : 12.436   |   E  : 12.702
+ ->  P  : 1.806   |   P  : 1.929
+ ->  R  : 5.887   |   R  : 5.987
+ ->  O  : 7.538   |   O  : 7.507
+ ->  J  : 0.102   |   J  : 0.153
+ ->  C  : 2.444   |   C  : 2.782
+ ->  G  : 2.036   |   G  : 2.015
+ ->  U  : 2.554   |   U  : 2.758
+ ->  N  : 7.304   |   N  : 6.749
+ ->  B  : 1.374   |   B  : 1.492
+ ->  K  : 0.810   |   K  : 0.772
+ ->  F  : 2.177   |   F  : 2.228
+ ->  W  : 2.348   |   W  : 2.360
+ ->  A  : 8.039   |   A  : 8.167
+ ->  D  : 4.692   |   D  : 4.253
+ ->  Y  : 1.834   |   Y  : 1.974
+ ->  L  : 3.828   |   L  : 4.025
+ ->  S  : 6.460   |   S  : 6.327
+ ->  I  : 6.831   |   I  : 6.966
+ ->  M  : 2.445   |   M  : 2.406
+ ->  V  : 1.074   |   V  : 0.978
+ ->  X  : 0.174   |   X  : 0.150
+ ->  Z  : 0.095   |   Z  : 0.074
+ ->  Q  : 0.092   |   Q  : 0.095
+
+The total Frequency Deviation Error for [ WarPeace-Tolstoy.txt ] is:  3.885
+
+_____________Sorted table_____________
+
+ Book Frequency  -  Wiki Frequency
+
+ ->  E  :  12.436  -  E  :  12.702
+ ->  T  :  8.979  -  T  :  9.056
+ ->  A  :  8.039  -  A  :  8.167
+ ->  O  :  7.538  -  O  :  7.507
+ ->  N  :  7.304  -  I  :  6.966
+ ->  I  :  6.831  -  N  :  6.749
+ ->  H  :  6.639  -  S  :  6.327
+ ->  S  :  6.460  -  H  :  6.094
+ ->  R  :  5.887  -  R  :  5.987
+ ->  D  :  4.692  -  D  :  4.253
+ ->  L  :  3.828  -  L  :  4.025
+ ->  U  :  2.554  -  C  :  2.782
+ ->  M  :  2.445  -  U  :  2.758
+ ->  C  :  2.444  -  M  :  2.406
+ ->  W  :  2.348  -  W  :  2.360
+ ->  F  :  2.177  -  F  :  2.228
+ ->  G  :  2.036  -  G  :  2.015
+ ->  Y  :  1.834  -  Y  :  1.974
+ ->  P  :  1.806  -  P  :  1.929
+ ->  B  :  1.374  -  B  :  1.492
+ ->  V  :  1.074  -  V  :  0.978
+ ->  K  :  0.810  -  K  :  0.772
+ ->  X  :  0.174  -  J  :  0.153
+ ->  J  :  0.102  -  X  :  0.150
+ ->  Z  :  0.095  -  Q  :  0.095
+ ->  Q  :  0.092  -  Z  :  0.074
+
+___________Letter Positions___________
+
+ -> Letter T  is at  0  position.
+ -> Letter H  is at  -1  position.
+ -> Letter E  is at  0  position.
+ -> Letter P  is at  0  position.
+ -> Letter R  is at  0  position.
+ -> Letter O  is at  0  position.
+ -> Letter J  is at  1  position.
+ -> Letter C  is at  2  position.
+ -> Letter G  is at  0  position.
+ -> Letter U  is at  -1  position.
+ -> Letter N  is at  -1  position.
+ -> Letter B  is at  0  position.
+ -> Letter K  is at  0  position.
+ -> Letter F  is at  0  position.
+ -> Letter W  is at  0  position.
+ -> Letter A  is at  0  position.
+ -> Letter D  is at  0  position.
+ -> Letter Y  is at  0  position.
+ -> Letter L  is at  0  position.
+ -> Letter S  is at  1  position.
+ -> Letter I  is at  1  position.
+ -> Letter M  is at  -1  position.
+ -> Letter V  is at  0  position.
+ -> Letter X  is at  -1  position.
+ -> Letter Z  is at  -1  position.
+ -> Letter Q  is at  1  position.
+
+ The total letter position error for [ WarPeace-Tolstoy.txt ] is:  12
+
+
+#################### RANK #########################
+
+ Ranking by Deviation (Lesser to Greater):
+
+ 1 .  MonteCristo-Dumas.txt  :  3.223
+ 2 .  Hunchback-Hugo.txt  :  3.364
+ 3 .  Twain.txt  :  3.487
+ 4 .  WarPeace-Tolstoy.txt  :  3.885
+ 5 .  Middlemarch-Eliot.txt  :  4.1
+ 6 .  Moby-Melville.txt  :  4.657
+ 7 .  Ulysses-Joyce.txt  :  4.877
+ 8 .  Copperfield-Dickens.txt  :  5.235
+ 9 .  DonQuixote-Cervantes.txt  :  6.018
+ 10 .  BrothersKaramazov-Dostoyevsky.txt  :  6.118
+
+#################### RANK #########################
+
+ Ranking by Changes in Letter Position (Higher to Lower):
+
+ 1 .  Twain.txt  :  8
+ 2 .  MonteCristo-Dumas.txt  :  10
+ 3 .  Copperfield-Dickens.txt  :  12
+ 4 .  Middlemarch-Eliot.txt  :  12
+ 5 .  Ulysses-Joyce.txt  :  12
+ 6 .  WarPeace-Tolstoy.txt  :  12
+ 7 .  Hunchback-Hugo.txt  :  14
+ 8 .  BrothersKaramazov-Dostoyevsky.txt  :  16
+ 9 .  Moby-Melville.txt  :  16
+ 10 .  DonQuixote-Cervantes.txt  :  18
+
+___________Letter Prominence___________
+
+ -> Letters in Group 1:  {'o', 't', 'e', 'a'}
+ -> Letters in Group 2:  {'d', 'r', 's', 'l'}
+ -> Letters in Group 3:  {'y', 'w', 'c', 'f', 'g'}
+ -> Letters in Group 4:  {'x', 'z', 'k', 'j', 'q', 'v'}
+
+______Letter Occurrence Consistency______
+
+Letters in the First Half:  {'d', 'o', 's', 't', 'e', 'l', 'i', 'n', 'h', 'a', 'r'}
+Letters in the Second Half:  {'y', 'w', 'c', 'p', 'f', 'g'}
+
+############################ Program Completed ############################
+
+C:\Users\faisa\OneDrive\Documents\University of New Haven\Spring 2017\Script Programming_Python\Programs\Assignments\LetterFrequencyAnalysis>
